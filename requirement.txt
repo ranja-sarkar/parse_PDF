@@ -1,1 +1,5 @@
 
+numpy==1.19.4
+pandas==1.2.4
+PyPDF2==1.26.0
+pdfplumber==0.5.23
