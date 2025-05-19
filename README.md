@@ -1,6 +1,7 @@
 # About
 
-- Reading editable as well as scanned PDF documents for text and tables using the python library - pdfplumber, thereafter extracting the images in them using another python library - fitz (PyMuPDF).
+- Reading editable as well as scanned PDF documents for text and tables using python library - pdfplumber
+- Extracting the images in them using python library - fitz (PyMuPDF).
 
 ----
 
